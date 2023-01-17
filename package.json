@@ -2,16 +2,12 @@
 	"name": "vscode-time-waster",
 	"displayName": "VS Code Time Waster",
 	"description": "Waiting for your code to compile? Try these time wasters!",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "perry",
-	"private": true,
 	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/perryliuofficial/VS-Code-Time-Waster"
-	},
-	"bugs": {
-		"url": "https://github.com/perryliuofficial/VS-Code-Time-Waster/issues"
 	},
 	"engines": {
 		"vscode": "^1.32.0"
