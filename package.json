@@ -2,7 +2,7 @@
 	"name": "vscode-time-waster",
 	"displayName": "VS Code Time Waster",
 	"description": "Waiting for your code to compile? Try these time wasters!",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "perry",
 	"license": "MIT",
 	"repository": {
