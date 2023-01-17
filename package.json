@@ -3,7 +3,7 @@
 	"displayName": "VS Code Time Waster",
 	"description": "Waiting for your code to compile? Try these time wasters!",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "perry",
 	"private": true,
 	"license": "MIT",
 	"repository": {
